@@ -1,4 +1,4 @@
-# Project-2---name-still-to-find
+# Project-2---Predict Ratings based on text statements
 
 ## PDF-Dokumente
 
