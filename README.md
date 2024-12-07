@@ -3,7 +3,7 @@
 INFO: 
 - to open the knwf-file you need to have installed Knime - if you clic you download the file
 - to open the csv-file you also need to download it - it cant be open with Webbased editors as it is too big
-- to open the JSON-files you can either use the JSON viewer you find in the Links Section or download it (also to big for GitHub)
+- to open the JSON-files you can either use the JSON viewer you find in the Links Section or download it (also too big for GitHub)
 
 ## PDF-Dokuments
 
