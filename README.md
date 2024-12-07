@@ -18,8 +18,8 @@ the following big files are on Google Drive as they are too big for GitHub
 -- clic on the links and download them (if necessary) to open on your local machine
 
 - [filtered_data_knime.csv](https://drive.google.com/file/d/1InkIdDaAFB7wRO5mp1_NNyI_IF1CyPKm/view?usp=sharing) -- 1.5 GB
-- [yelp_academic_dataset_business.json](https://drive.google.com/file/d/1e5ruS7qt3d-hfiCLXAhO4Rh39sbVtuc0/view?usp=sharing) 116k KB
-- [yelp_academic_dataset_review.json](https://drive.google.com/file/d/1VG-aOdFmx1PYGsrFFF8en6z9gRsaDDuU/view?usp=sharing) 5.2 GB
+- [yelp_academic_dataset_business.json](https://drive.google.com/file/d/1e5ruS7qt3d-hfiCLXAhO4Rh39sbVtuc0/view?usp=sharing) -- 116k KB
+- [yelp_academic_dataset_review.json](https://drive.google.com/file/d/1VG-aOdFmx1PYGsrFFF8en6z9gRsaDDuU/view?usp=sharing) -- 5.2 GB
 
 ## Links
 
