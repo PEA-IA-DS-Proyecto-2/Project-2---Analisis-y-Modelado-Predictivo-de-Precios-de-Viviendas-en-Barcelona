@@ -1,7 +1,9 @@
 # Project-2---Predict Ratings based on text statements
 
 INFO: 
-to open the knwf-file you need to have installed Knime - if you clic you download it  
+to open the knwf-file you need to have installed Knime - if you clic you download the file
+to open the csv-file you also need to download it - it cant be open with Webbased editors as they are too big
+to open the JSON-files you can either use the JSON viewer you find in the Links Section or download it
 
 ## PDF-Dokuments
 
