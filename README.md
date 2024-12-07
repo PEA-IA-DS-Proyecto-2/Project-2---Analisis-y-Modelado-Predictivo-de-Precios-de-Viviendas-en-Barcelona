@@ -1,5 +1,8 @@
 # Project-2---Predict Ratings based on text statements
 
+INFO: 
+to open the knwf-file you need to have installed Knime - if you clic you download it  
+
 ## PDF-Dokuments
 
 - [1. Projekt 2 - Task definition](./Proyecto%202%20-%20Impelia.pdf)
