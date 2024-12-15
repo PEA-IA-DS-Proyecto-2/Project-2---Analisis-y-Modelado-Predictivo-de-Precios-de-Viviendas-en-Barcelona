@@ -1,12 +1,16 @@
 # Ordner ausschließen
-GoogleDrive
-processed/
-scripts/
+
+
+
+
+
 
 # Log- und Output-Dateien ausschließen
-workflow.log
-output_visualization.png
-makefile
+
+
+
+
+
 
 # Temporäre oder Cache-Dateien ausschließen
 *.tmp
