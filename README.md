@@ -1,22 +1,22 @@
 # Indice
 Ficheros implicados
-    **"ETL & EDA"**
-          Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv
-          Informe: Dokumentation ETL_EDA.pdf
-          Justificación: Project 2 ETL.knwf
-    **"Ética de la IA y Gobernanza de Datos"**
-          Informe: Ética de la IA y gobernanza de datos.pdf
-    **"Desarrollo del modelo predictivo con herramientas AutoML"**
-          Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.csv
-          Justificación: Recinto-de-seguridad-de-Javier-IBM-Watson-X.zip
-          Informe: Datos de Viviendas en alquiler en la ciudad de Barcelona - P4 Regresor XGB-Modelo_2025_1_8_17_23_27.pdf
-    **"Visualización de datos con Power BI"**
-          Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.xlsx
-          Justificación: Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
-          Informe: Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
-    **"Entrega y documentación"**
-          Integración en GitHub: https://github.com/PEA-IA-DS-Proyecto-2/Project-2---Analisis-y-Modelado-Predictivo-de-                                        Precios-de-Viviendas-en-Barcelona/tree/main
-          Informe detallado: Diversos informes en cada uno de los apartados anteriores que componen el informe global.
+1. **"ETL & EDA"**
+   Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv
+   Informe: Dokumentation ETL_EDA.pdf
+   Justificación: Project 2 ETL.knwf
+2. **"Ética de la IA y Gobernanza de Datos"**
+   Informe: Ética de la IA y gobernanza de datos.pdf
+3. **"Desarrollo del modelo predictivo con herramientas AutoML"**
+   Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.csv
+   Justificación: Recinto-de-seguridad-de-Javier-IBM-Watson-X.zip
+   Informe: Datos de Viviendas en alquiler en la ciudad de Barcelona - P4 Regresor XGB-Modelo_2025_1_8_17_23_27.pdf
+4. **"Visualización de datos con Power BI"**
+   Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.xlsx
+   Justificación: Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
+   Informe: Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
+5. **"Entrega y documentación"**
+   Integración en GitHub: https://github.com/PEA-IA-DS-Proyecto-2/Project-2---Analisis-y-Modelado-Predictivo-de-Precios-de-Viviendas-en-Barcelona/tree/main
+   Informe detallado: Diversos informes en cada uno de los apartados anteriores que componen el informe global.
 
 # Guía para el archivo *.knwf
 
