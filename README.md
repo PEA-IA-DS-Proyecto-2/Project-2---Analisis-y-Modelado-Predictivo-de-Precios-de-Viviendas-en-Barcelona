@@ -12,8 +12,8 @@ Ficheros implicados
    - Informe: Datos de Viviendas en alquiler en la ciudad de Barcelona - P4 Regresor XGB-Modelo_2025_1_8_17_23_27.pdf
 4. **"Visualización de datos con Power BI"**
    - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.xlsx
-   - Justificación: Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
-   - Informe: Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
+   - Justificación: Pendiente de subir. Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
+   - Informe: Pendiente de subir. Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
 5. **"Entrega y documentación"**
    - Integración en GitHub: https://github.com/PEA-IA-DS-Proyecto-2/Project-2---Analisis-y-Modelado-Predictivo-de-Precios-de-Viviendas-en-Barcelona/tree/main
    - Informe detallado: Diversos informes en cada uno de los apartados anteriores que componen el informe global.
