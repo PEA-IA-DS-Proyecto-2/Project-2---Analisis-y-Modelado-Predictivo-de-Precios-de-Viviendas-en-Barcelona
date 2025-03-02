@@ -2,22 +2,22 @@
 Ficheros implicados
 1. **"ETL & EDA"**
    - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv
-   - Informe: Dokumentation ETL_EDA.pdf
-   - Justificación: Project 2 ETL.knwf
+   - Informe: Dokumentation ETL_EDA.pdf - Errol
+   - Justificación: Project 2 ETL.knwf - Errol
 2. **"Ética de la IA y Gobernanza de Datos"**
-   - Informe: Ética de la IA y gobernanza de datos.pdf
+   - Informe: Ética de la IA y gobernanza de datos.pdf - Javier
 3. **"Desarrollo del modelo predictivo con herramientas AutoML"**
-   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.csv
-   - Justificación: Recinto-de-seguridad-de-Javier-IBM-Watson-X.zip
-   - Informe: Datos de Viviendas en alquiler en la ciudad de Barcelona - P4 Regresor XGB-Modelo_2025_1_8_17_23_27.pdf
+   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.csv Errol
+   - Justificación: Recinto-de-seguridad-de-Javier-IBM-Watson-X.zip - Javier
+   - Informe: Datos de Viviendas en alquiler en la ciudad de Barcelona - P4 Regresor XGB-Modelo_2025_1_8_17_23_27.pdf - Javier
 4. **"Visualización de datos con Power BI"**
-   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.xlsx
+   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.xlsx Javier
    - Justificación: Pendiente de subir. Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
    - Informe: Pendiente de subir. Preguntar a Victor Blanco Murillo (victor.blanco@campus.impelia.org)
 5. **"Entrega y documentación"**
    - Integración en GitHub: https://github.com/PEA-IA-DS-Proyecto-2/Project-2---Analisis-y-Modelado-Predictivo-de-Precios-de-Viviendas-en-Barcelona/tree/main
    - Informe detallado: Diversos informes en cada uno de los apartados anteriores que componen el informe global.
-   - Informe alternativo pendientes de entrega de Victor Blanco Murillo. Presentación Power BI.pbix
+   - Informe alternativo pendientes de entrega de Victor Blanco Murillo. Presentación Power BI.pbix - Errol
 
 # Guía para el archivo *.knwf
 
