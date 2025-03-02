@@ -17,6 +17,7 @@ Ficheros implicados
 5. **"Entrega y documentación"**
    - Integración en GitHub: https://github.com/PEA-IA-DS-Proyecto-2/Project-2---Analisis-y-Modelado-Predictivo-de-Precios-de-Viviendas-en-Barcelona/tree/main
    - Informe detallado: Diversos informes en cada uno de los apartados anteriores que componen el informe global.
+   - Informe alternativo pendientes de entrega de Victor Blanco Murillo. Presentación Power BI.pbix
 
 # Guía para el archivo *.knwf
 
