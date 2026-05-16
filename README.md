@@ -1,21 +1,24 @@
 # Indice
-Ficheros implicados
-1. **"ETL & EDA"**
-   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv
-   - Informe: Dokumentation ETL_EDA.pdf - Errol
-   - Justificación: Project 2 ETL.knwf - Errol
-2. **"Ética de la IA y Gobernanza de Datos"**
-   - Informe: Ética de la IA y gobernanza de datos.pdf - Javier
-3. **"Desarrollo del modelo predictivo con herramientas AutoML"**
-   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.csv Errol
-   - Justificación: Recinto-de-seguridad-de-Javier-IBM-Watson-X.zip - Javier
-   - Informe: Datos de Viviendas en alquiler en la ciudad de Barcelona - P4 Regresor XGB-Modelo_2025_1_8_17_23_27.pdf - Javier
-4. **"Visualización de datos con Power BI"**
-   - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.xlsx Javier
-5. **"Entrega y documentación"**
-   - Integración en GitHub: https://github.com/PEA-IA-DS-Proyecto-2/Project-2---Analisis-y-Modelado-Predictivo-de-Precios-de-Viviendas-en-Barcelona/tree/main
-   - Informe detallado: Diversos informes en cada uno de los apartados anteriores que componen el informe global.
-   - Informe alternativo Presentación Power BI.pbix - Errol
+
+Proyecto colaborativo (Errol Dickl & Javier de Andrés Martínez) que combina ETL, EDA, modelado AutoML y visualización con Power BI sobre datos inmobiliarios de Barcelona.
+
+## Ficheros implicados
+
+**ETL & EDA**
+- Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv - Errol
+- Informe: Dokumentation ETL_EDA.pdf - Errol
+- Justificación: Project 2 ETL.knwf - Errol
+
+**Ética de la IA y Gobernanza de Datos**
+- Informe: Ética de la IA y gobernanza de datos.pdf - Javier
+
+**Desarrollo del modelo predictivo con herramientas AutoML**
+- Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented_CLEANED.csv - Errol
+- Informe: Datos de Viviendas en alquiler - P4 Regresor XGB-Modelo.pdf - Javier
+- Justificación: Recinto-de-seguridad-de-Javier-IBM-Watson-X.zip - Javier
+
+**Visualización de datos con Power BI**
+- Presentación: Presentación Power BI.pbix - Errol
 
 # Guía para el archivo *.knwf
 
