@@ -2,7 +2,7 @@
 
 Proyecto colaborativo (Errol Dickl & Javier de Andrés Martínez) que combina ETL, EDA, modelado AutoML y visualización con Power BI sobre datos inmobiliarios de Barcelona.
 
-## Ficheros implicados
+# Ficheros implicados
 
 **ETL & EDA**
 - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv - Errol
