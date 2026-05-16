@@ -1,8 +1,8 @@
-# Indice
+## Indice
 
 Proyecto colaborativo (Errol Dickl & Javier de Andrés Martínez) que combina ETL, EDA, modelado AutoML y visualización con Power BI sobre datos inmobiliarios de Barcelona.
 
-# Ficheros implicados
+## Ficheros implicados
 
 **ETL & EDA**
 - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv - Errol
@@ -20,7 +20,7 @@ Proyecto colaborativo (Errol Dickl & Javier de Andrés Martínez) que combina ET
 **Visualización de datos con Power BI**
 - Presentación: Presentación Power BI.pbix - Errol
 
-# Guía para el archivo *.knwf
+## Guía para el archivo *.knwf
 
 El archivo no se puede visualizar directamente en GitHub. Sin embargo, hay un método alternativo para acceder a él:
 
