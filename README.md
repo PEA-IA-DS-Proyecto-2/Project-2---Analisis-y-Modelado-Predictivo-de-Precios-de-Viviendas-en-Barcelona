@@ -8,6 +8,7 @@ Proyecto colaborativo (Errol Dickl & Javier de Andrés Martínez) que combina ET
 - Datos: DATA_Barcelona_Fotocasa_HousingPrices_Augmented.csv - Errol
 - Informe: Dokumentation ETL_EDA.pdf - Errol
 - Justificación: Project 2 ETL.knwf - Errol
+![KNIME Workflow](Knime%20Workflow.png)
 
 **Ética de la IA y Gobernanza de Datos**
 - Informe: Ética de la IA y gobernanza de datos.pdf - Javier
